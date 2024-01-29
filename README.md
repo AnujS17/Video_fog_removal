@@ -1,4 +1,4 @@
-# Hybrid Learning DehazeNet for Multi Image Haze Removal 
+# DehazeNet for Multi Image Haze Removal 
 
 **Wei-Ting Chen, Hao-Yu Feng, Jian-Jiun Ding, Sy-Yen Kuo**  
 [[Paper Download]](https://ieeexplore.ieee.org/document/9094006)
