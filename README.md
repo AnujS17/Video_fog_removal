@@ -4,10 +4,6 @@
 [[Paper Download]](https://ieeexplore.ieee.org/document/9094006)
 
 
-![image](pmhld.png)
-
-<br>
-
 
 # Abstract:
 
